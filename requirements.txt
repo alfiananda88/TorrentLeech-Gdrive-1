@@ -3,7 +3,7 @@ psutil
 aria2p
 hachoir
 Pillow
-https://github.com/pyrogram/pyrogram/archive/asyncio-dev.zip
+pyrogram
 tgcrypto
-git+https://github.com/FaArIsH/youtube-dl
+youtube_dl>=2021.1.8
 hurry.filesize
